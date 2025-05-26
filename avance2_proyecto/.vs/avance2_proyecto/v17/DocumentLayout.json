@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\AvanceProyecto2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\AvanceProyecto2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Adventure Works2016.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\Adventure Works2016.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Detail.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\Sales Order Detail.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Header.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{30678983-EF6A-4E78-8C6E-55DC28AAF42B}|avance2_proyecto\\avance2_proyecto.dwproj|solutionrelative:avance2_proyecto\\Sales Order Header.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Product.dim",
+              "RelativeDocumentMoniker": "avance2_proyecto\\Product.dim",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Product.dim [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\Product.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T19:15:06.088Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvanceProyecto2.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\AvanceProyecto2.cube",
+              "RelativeDocumentMoniker": "avance2_proyecto\\AvanceProyecto2.cube",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\AvanceProyecto2.cube [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\AvanceProyecto2.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T18:50:57.469Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Customer.dim",
+              "RelativeDocumentMoniker": "avance2_proyecto\\Customer.dim",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Customer.dim [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\Customer.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T19:15:05.422Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adventure Works2016.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Adventure Works2016.dsv",
+              "RelativeDocumentMoniker": "avance2_proyecto\\Adventure Works2016.dsv",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Adventure Works2016.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\Adventure Works2016.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T19:14:56.745Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales Order Detail.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Detail.dim",
+              "RelativeDocumentMoniker": "avance2_proyecto\\Sales Order Detail.dim",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Detail.dim [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\Sales Order Detail.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T19:15:04.521Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sales Order Header.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Header.dim",
+              "RelativeDocumentMoniker": "avance2_proyecto\\Sales Order Header.dim",
+              "ToolTip": "C:\\Users\\vasqu\\source\\repos\\avance2_proyecto\\avance2_proyecto\\Sales Order Header.dim [Dise\u00F1o]",
+              "RelativeToolTip": "avance2_proyecto\\Sales Order Header.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T18:49:58.135Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
